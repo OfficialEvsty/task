@@ -21,7 +21,7 @@ namespace Task.Connector.Tests
         public void Debug(string message) => Append($"{DateTime.Now}:{_connectorName}:DEBUG:{message}");
 
         public void Error(string message) => Append($"{DateTime.Now}:{_connectorName}:ERROR:{message}");
-        public void Warn(string message) => Append($"{DateTime.Now}:{_connectorName}:WARNING{message}");
+        public void Warn(string message) => Append($"{DateTime.Now}:{_connectorName}:WARNING:{message}");
 
     }
 }

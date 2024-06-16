@@ -7,6 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task.Connector", "Task.Conn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task.Connector.Tests", "Task.Connector.Tests\Task.Connector.Tests.csproj", "{9DFE11D3-9738-46B0-91FA-B6462C93EEAE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "results", "results", "{903AD991-8DE1-4FB9-8057-E4BD30ECF9A8}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\OneDrive\Изображения\Снимки экрана\tests.png = ..\..\..\OneDrive\Изображения\Снимки экрана\tests.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
