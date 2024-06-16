@@ -1,5 +1,5 @@
 ### Результаты проведенных тестов
-![Результаты проведенных тестов](https://ibb.co/ygy9SC2) 
+![Результаты проведенных тестов](https://cdn.discordapp.com/attachments/1060654257365319700/1251706304691437619/tests.png?ex=666f8dd6&is=666e3c56&hm=99d7aeb233189cce3a5f266c7b5462cdd858ff95dac69ed9583bdbf942abeb3d&) 
 
 
 
